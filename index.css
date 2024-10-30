@@ -1,0 +1,6 @@
+/* this is how we add css to our tags */
+#heading{
+    color:red;
+    font-style: italic;
+    font-weight: bold;
+}
